@@ -3,6 +3,8 @@
 ## Overview
 This project explored the potential of various methods for stock price prediction, including averaging techniques and LSTM neural networks. While the project primarily serves as an educational exercise highlighting the capabilities of different approaches, it also provides insights into the challenges and limitations of stock market prediction.
 
+Link to visualize demo of the project on the browser: [Stock Price Predictions with LSTMs](https://breast-cancer-predictor.netlify.app/)
+
 **Models and Techniques:**
 
 * **Averaging Techniques**: Both standard averaging and exponential moving average (EMA) were employed for one-step ahead predictions. These methods are simple to implement and interpret, but their accuracy is limited, particularly for capturing complex market trends and unforeseen events.
